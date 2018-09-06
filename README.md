@@ -1,7 +1,7 @@
 # React practice - simple weather forecast
 
 ### Make a simple weather forecast demo using react
-![](./image/image.png)
+![](./image/img.png)
 #### What I use
 -   React
 -   Redux
